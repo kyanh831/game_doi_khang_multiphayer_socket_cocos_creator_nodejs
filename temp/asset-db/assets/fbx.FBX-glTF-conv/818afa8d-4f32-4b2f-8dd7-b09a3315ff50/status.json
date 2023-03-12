@@ -1,0 +1,13 @@
+{
+  "version": "2.3.2",
+  "sourceTimeStamp": 1678629599086.1294,
+  "outputTimeStamps": {
+    "log.json": 1678629735753.4832,
+    "out.bin": 1678629735703.218,
+    "out.gltf": 1678629735750.4924,
+    "tex_rooster_man.png": 1678629599092.5342
+  },
+  "options": {
+    "smartMaterialEnabled": false
+  }
+}

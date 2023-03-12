@@ -1,0 +1,386 @@
+{
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\effectsx": {
+    "time": 1678629598924.4524,
+    "uuid": "931f57d6-417e-4eda-b038-60e697b8caa1",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\KylinsEasyController": {
+    "time": 1678629598870.5796,
+    "uuid": "5a3feb09-61d5-4b9a-b480-7b90c02f905e",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\objects": {
+    "time": 1678629598955.1042,
+    "uuid": "2449d997-b6f9-4d04-86a3-118be4872795",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\rooster_man": {
+    "time": 1678629599093.695,
+    "uuid": "161855d6-1e5a-4e58-bb1a-f5b49200a4ee",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\scenes": {
+    "time": 1678630384127.7812,
+    "uuid": "6a685c22-646d-4eaf-a6bd-aae4e811c693",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\textures": {
+    "time": 1678629599104.5708,
+    "uuid": "7ee74584-5126-4e21-b477-7721d1d2a2fc",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\effectsx\\standard-ground.effect": {
+    "time": 1678629598922.79,
+    "uuid": "38e590ef-9e32-4343-9e8e-4bd6db77256e",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\effectsx\\standard-jare.effect": {
+    "time": 1678629598924.4524,
+    "uuid": "265b78db-27ae-4c67-8737-30ad99ed6f9c",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\DepthMapSetter.ts": {
+    "time": 1678629598856.564,
+    "uuid": "e8f9832c-3a2f-4eb4-bae4-13a3899bb3e3",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\FullScreenCtrl.ts": {
+    "time": 1678629598858.0808,
+    "uuid": "c3ade1ec-d688-4038-b333-35135999ff7c",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\KylinsEasyController\\CharacterController.ts": {
+    "time": 1678629598860.3613,
+    "uuid": "d197a4ec-eefd-4692-9c32-a5d2757b327c",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\KylinsEasyController\\EasyController.ts": {
+    "time": 1678629598862.5898,
+    "uuid": "cc9338a3-89a7-411b-8ec6-67ad715c0e76",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\KylinsEasyController\\FPSCamera.ts": {
+    "time": 1678629598863.7234,
+    "uuid": "6c02dedb-5810-484d-b327-95356b0c9f95",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\KylinsEasyController\\FreeCamera.ts": {
+    "time": 1678629598865.8757,
+    "uuid": "4569ab45-ae90-4980-984b-10db774e698b",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\KylinsEasyController\\ThirdPersonCamera.ts": {
+    "time": 1678629598866.874,
+    "uuid": "195f1fed-355b-48b3-97ae-3a77101295b4",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\KylinsEasyController\\UI_Joystick.ts": {
+    "time": 1678629598868.378,
+    "uuid": "d5ca1472-5348-42cd-89f5-85927d8d724d",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\effectsx.meta": {
+    "time": 1678629598921.771
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\KylinsEasyController.meta": {
+    "time": 1678629598859.3555
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\objects.meta": {
+    "time": 1678629598926.641
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\rooster_man.meta": {
+    "time": 1678629598957.9424
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\scenes.meta": {
+    "time": 1678629599093.695
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\textures.meta": {
+    "time": 1678629599097.69
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\DepthMapSetter.ts.meta": {
+    "time": 1678629598856.564
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\FullScreenCtrl.ts.meta": {
+    "time": 1678629598859.3555
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\KylinsEasyController\\CharacterController.ts.meta": {
+    "time": 1678629598861.362
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\KylinsEasyController\\EasyController.ts.meta": {
+    "time": 1678629598863.7234
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\KylinsEasyController\\FPSCamera.ts.meta": {
+    "time": 1678629598864.8728
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\KylinsEasyController\\FreeCamera.ts.meta": {
+    "time": 1678629598865.8757
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\effectsx\\standard-jare.effect.meta": {
+    "time": 1678629598924.4524
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\effectsx\\standard-ground.effect.meta": {
+    "time": 1678629598922.79
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\KylinsEasyController\\ThirdPersonCamera.ts.meta": {
+    "time": 1678629598867.872
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\KylinsEasyController\\UI_Joystick.ts.meta": {
+    "time": 1678629598868.378
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\glasses.mtl": {
+    "time": 1678629598924.4524,
+    "uuid": "577c4af4-2caf-410f-8aaa-49beebd5bf1c",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\Mat-Ground.mtl": {
+    "time": 1678629598870.5796,
+    "uuid": "43a57305-c5fd-47ce-91a1-7cf07e463a4b",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\physics-material.pmtl": {
+    "time": 1678629598956.9294,
+    "uuid": "5ec251a5-8b32-468e-993a-e8958f2a46c1",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\Sky_YellowGround02_exposure-03.hdr": {
+    "time": 1678629598918.8994,
+    "uuid": "646951ea-eccd-4687-9e3a-aea3ebb59f5e",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\Sky_YellowGround02_exposure-03_diffusion.png": {
+    "time": 1678629598920.3955,
+    "uuid": "1009d39e-0b00-456a-8c8d-47cf68d8415a",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\KylinsEasyController\\ui_joystick_panel.prefab": {
+    "time": 1678629598869.436,
+    "uuid": "55ac4e22-a145-4a46-92f1-a45afa1b8f08",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\objects\\fbx_map0.FBX": {
+    "time": 1678629598954.0933,
+    "uuid": "a6e28b55-3ea0-4439-92c1-158b8f6db6eb",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\rooster_man\\anim_mask_rig_sokoban.animask": {
+    "time": 1678629598960.2563,
+    "uuid": "f26be37a-e527-4b5d-a764-80104c4560e5",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\rooster_man\\anim_mask_rig_unbrella.animask": {
+    "time": 1678629598961.6753,
+    "uuid": "90de7847-9e60-4cb2-8f12-51399ada4b6c",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\rooster_man\\anim_rig_climb_over.FBX": {
+    "time": 1678629598968.1968,
+    "uuid": "af71c043-e2e4-4a55-91cc-0b0dea42472b",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\rooster_man\\anim_rig_fall_into_water.FBX": {
+    "time": 1678629598976.1865,
+    "uuid": "2cca57b9-f8e2-4cdc-9817-585128320009",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\rooster_man\\anim_rig_fall_into_water_die.FBX": {
+    "time": 1678629598992.422,
+    "uuid": "b1fb1f6e-d9fb-4d78-a31c-c9295bffa8f2",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\rooster_man\\anim_rig_fly.FBX": {
+    "time": 1678629599001.3242,
+    "uuid": "b8549459-6e21-4ea0-a69c-c23213cfa0b1",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\rooster_man\\anim_rig_fly_open.FBX": {
+    "time": 1678629599006.3157,
+    "uuid": "71cd5f68-0f8d-4c92-842a-19b599abf4e3",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\rooster_man\\anim_rig_fly_shut.FBX": {
+    "time": 1678629599015.4548,
+    "uuid": "c657cafb-170c-45b7-ba51-ac61469db43f",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\rooster_man\\anim_rig_high_speed_drop_ground.FBX": {
+    "time": 1678629599022.0444,
+    "uuid": "bf851bc5-65ad-42e0-bc99-644270b6cf67",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\rooster_man\\anim_rig_idle_1.FBX": {
+    "time": 1678629599026.9724,
+    "uuid": "ad458d2b-05f5-4d4a-ab6a-936cd46d9766",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\rooster_man\\anim_rig_idle_2.FBX": {
+    "time": 1678629599033.486,
+    "uuid": "6f667909-55ed-4ad3-97d1-5a103ff6d769",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\rooster_man\\anim_rig_jump.FBX": {
+    "time": 1678629599040.2832,
+    "uuid": "22b9e5fa-452b-4d39-b970-0ef14606f9ec",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\rooster_man\\anim_rig_run.FBX": {
+    "time": 1678629599047.2434,
+    "uuid": "4e5e790d-384c-4806-ace2-11fb5131d5a4",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\rooster_man\\anim_rig_sky_jump.FBX": {
+    "time": 1678629599053.338,
+    "uuid": "c1384d07-8d39-4e1b-afc5-a861976b43b2",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\rooster_man\\anim_rig_sokoban.FBX": {
+    "time": 1678629599062.0422,
+    "uuid": "ef35630b-fbaf-43b2-ab69-409fabe89908",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\rooster_man\\anim_rig_stand_to_climb.FBX": {
+    "time": 1678629599067.6804,
+    "uuid": "e1a305ec-3d79-461f-abf0-c844738af84a",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\rooster_man\\anim_rig_walk.FBX": {
+    "time": 1678629599074.5981,
+    "uuid": "648b3db6-164d-4e37-bf3a-ba18a1d1bbc4",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\rooster_man\\anim_rig_win.FBX": {
+    "time": 1678629599080.7568,
+    "uuid": "86700f78-dd53-445d-b4f3-bf1d6bf6addc",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\rooster_man\\ani_graph_role_rooster_man.animgraph": {
+    "time": 1678629598958.9746,
+    "uuid": "f29550d7-bf7d-420d-9cdc-b11df4855fbe",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\rooster_man\\rooster_man_skin.FBX": {
+    "time": 1678629599086.1294,
+    "uuid": "818afa8d-4f32-4b2f-8dd7-b09a3315ff50",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\rooster_man\\tex_rooster_man.png": {
+    "time": 1678629599092.5342,
+    "uuid": "a2f8f911-6a76-4c49-b9ae-0dfa37e43ed7",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\scenes\\test.scene": {
+    "time": 1678629599095.694,
+    "uuid": "0d6c75ac-8171-4aaa-a146-3d530a2632f9",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\textures\\floorTile.png": {
+    "time": 1678629599101.2002,
+    "uuid": "ff41bdda-3bc9-4d58-8aab-951cedc9d553",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\textures\\grid.jpg": {
+    "time": 1678629599103.3467,
+    "uuid": "78ca49b4-7edb-4217-9881-f4e134d9414d",
+    "missing": false
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\glasses.mtl.meta": {
+    "time": 1678629598925.618
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\Mat-Ground.mtl.meta": {
+    "time": 1678629598871.5803
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\physics-material.pmtl.meta": {
+    "time": 1678629598957.4353
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\KylinsEasyController\\ui_joystick_panel.prefab.meta": {
+    "time": 1678629598870.5796
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\rooster_man\\anim_mask_rig_sokoban.animask.meta": {
+    "time": 1678629598960.2563
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\rooster_man\\anim_mask_rig_unbrella.animask.meta": {
+    "time": 1678629598962.6914
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\Sky_YellowGround02_exposure-03_diffusion.png.meta": {
+    "time": 1678629598921.771
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\rooster_man\\anim_rig_fall_into_water.FBX.meta": {
+    "time": 1678629598976.1865
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\rooster_man\\anim_rig_climb_over.FBX.meta": {
+    "time": 1678629598969.2083
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\objects\\fbx_map0.FBX.meta": {
+    "time": 1678629598955.1042
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\rooster_man\\anim_rig_fall_into_water_die.FBX.meta": {
+    "time": 1678629598993.4238
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\rooster_man\\anim_rig_fly.FBX.meta": {
+    "time": 1678629599001.3242
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\rooster_man\\anim_rig_fly_open.FBX.meta": {
+    "time": 1678629599007.8794
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\rooster_man\\anim_rig_fly_shut.FBX.meta": {
+    "time": 1678629599016.7808
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\rooster_man\\anim_rig_idle_1.FBX.meta": {
+    "time": 1678629599028.4768
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\rooster_man\\anim_rig_idle_2.FBX.meta": {
+    "time": 1678629599034.5225
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\rooster_man\\anim_rig_high_speed_drop_ground.FBX.meta": {
+    "time": 1678629599023.27
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\rooster_man\\anim_rig_jump.FBX.meta": {
+    "time": 1678629599041.2886
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\Sky_YellowGround02_exposure-03.hdr.meta": {
+    "time": 1678629598920.3955
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\rooster_man\\anim_rig_run.FBX.meta": {
+    "time": 1678629599047.7593
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\rooster_man\\anim_rig_stand_to_climb.FBX.meta": {
+    "time": 1678629599068.6912
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\rooster_man\\ani_graph_role_rooster_man.animgraph.meta": {
+    "time": 1678629598958.9746
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\rooster_man\\anim_rig_walk.FBX.meta": {
+    "time": 1678629599075.2185
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\rooster_man\\anim_rig_sokoban.FBX.meta": {
+    "time": 1678629599064.0376
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\rooster_man\\anim_rig_sky_jump.FBX.meta": {
+    "time": 1678629599054.4583
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\scenes\\test.scene.meta": {
+    "time": 1678629599096.6917
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\textures\\grid.jpg.meta": {
+    "time": 1678629599105.077
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\textures\\floorTile.png.meta": {
+    "time": 1678629599102.3118
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\rooster_man\\tex_rooster_man.png.meta": {
+    "time": 1678629599093.695
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\rooster_man\\rooster_man_skin.FBX.meta": {
+    "time": 1678629599086.1294
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\rooster_man\\anim_rig_win.FBX.meta": {
+    "time": 1678629599081.8423
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\scenes\\vs1.scene.meta": {
+    "time": 1678630384147.634
+  },
+  "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\scenes\\vs1.scene": {
+    "time": 1678630596138.9265,
+    "uuid": "4b590a35-1502-4a46-a17b-1232f7de2863",
+    "missing": false
+  }
+}

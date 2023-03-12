@@ -1,0 +1,12 @@
+{
+    "systemInfo": {
+        "arch": "x64",
+        "cpu": "Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz",
+        "version": "Windows 10 Pro"
+    },
+    "sceneListMap": {
+        "4b590a35-1502-4a46-a17b-1232f7de2863": "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\scenes\\vs1.scene",
+        "0d6c75ac-8171-4aaa-a146-3d530a2632f9": "C:\\Users\\trung\\Desktop\\Subject\\cong-cu-moi-truong-phat-trien-phan-mem\\game_doi_khang_multiphayer_socket_cocos_creator_nodejs\\assets\\scenes\\test.scene"
+    },
+    "deviceMd5": "a599a1deb2b763c5d1205082ef2d0ea0"
+}
